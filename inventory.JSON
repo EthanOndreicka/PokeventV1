@@ -1,0 +1,44 @@
+{
+    "users": {
+        "test_user_1": {
+            "cards": [
+                "card_id_1",
+                "card_id_2"
+            ],
+            "currency": 100,
+            "packs": {
+                "pack_id_1": 3,
+                "pack_id_2": 2
+            }
+        },
+        "test_user_2": {
+            "cards": [
+                "card_id_1",
+                "card_id_2"
+            ],
+            "currency": 100,
+            "packs": {
+                "pack_id_1": 3,
+                "pack_id_2": 2
+            }
+        }
+    },
+    "card":{
+        "card_1":{
+            "name": "Lugia GX",
+            "image_url":"https://images.pokemontcg.io/sm8/227_hires.png",
+            "est_value": 1,
+            "rarity": "Rainbow Rare",
+            "expansion":"Lost Thunder",
+            "tcg_number":"227/214"
+        },
+        "card_2":{
+            "name": "Rapid Strike Urshifu VMAX",
+            "image_url":"https://images.pokemontcg.io/swsh9tg/TG30_hires.png",
+            "est_value": 1,
+            "rarity":"Secret Rare",
+            "expansion":"Brilliant Stars",
+            "tcg_number":"TG30/30"
+        }
+    }
+}
