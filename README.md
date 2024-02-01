@@ -8,6 +8,8 @@ Pokévent is a discord bot used to notify users about upcoming events in the mob
 
 This repository is duplicated from my private one that is no longer in use. 
 I have decided to move from MySQL to PostgreSQL and will create a new repo for it.
+<br>
+<br>
 (RIP Pokévent v1 | May 2023 - Jan 2024)
 
 
